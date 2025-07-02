@@ -36,7 +36,9 @@ input {
   font-family: inherit;
   font-size: inherit;
 }
-
+button {
+  all: unset;
+}
 ul,
 ol {
   list-style: none;
