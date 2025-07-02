@@ -1,1 +1,1 @@
-https://beyondthehell.github.io/zakrivayuschiy-teg-f/
+https://github.com/beyondthehell/zakrivayuschiy-teg-f.git
